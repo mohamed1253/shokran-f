@@ -1,0 +1,487 @@
+.img1 {
+    position: absolute;
+    left: 900px;
+    width: 300px;
+    height: 300px;
+
+
+
+
+    animation-name: animate;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+
+
+}
+
+
+
+@keyframes animate {
+    25% {
+        top: 40px;
+
+    }
+
+    50% {
+        top: 30px;
+    }
+
+    75% {
+        top: 40px;
+    }
+
+    100% {
+        top: 30px;
+    }
+}
+
+.home .nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    background-color: orange;
+
+
+}
+
+a {
+    color: white;
+}
+
+.b1 {
+    color: white;
+    background-color: rgb(10, 45, 55);
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+}
+
+.img11 {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 500px;
+
+}
+
+.img2 {
+    position: absolute;
+    left: 200px;
+    top: 500px;
+    right: 20px;
+}
+
+.img3 {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 350px;
+    top: 520px;
+}
+
+.img4 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    margin-left: 50px;
+}
+
+.img5 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+
+}
+
+.img6 {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 520px;
+    left: 850px;
+}
+
+.img11,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6 {
+    position: absolute;
+    top: 500px;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+
+
+
+
+}
+
+section {
+    position: absolute;
+    bottom: 950px;
+    background-color: gray;
+
+
+
+
+
+}
+
+.iu {
+    position: absolute;
+    top: 700px;
+
+
+}
+
+.h11 {
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+
+.p1 {
+    width: 200px;
+    position: absolute;
+    left: 900px;
+    top: 700px;
+}
+
+.t1 {
+    border-radius: 50px;
+    color: white;
+    background: rgb(243, 162, 2);
+    position: absolute;
+    left: 900px;
+    top: 900px;
+    height: 30px;
+    width: 100px;
+}
+
+.p2 {
+    position: absolute;
+    top: 1000px;
+
+}
+
+.p11 {
+    position: absolute;
+    top: 1200px;
+    left: 600px;
+
+}
+
+.p3 {
+    position: absolute;
+    top: 10000;
+
+}
+
+.a1,
+.a2,
+.a3,
+.a4,
+.a5,
+.a6,
+.a7 {
+    padding-right: 120px;
+}
+
+
+.h22 {
+    position: absolute;
+    top: 12 00px;
+}
+
+.imga {
+    position: absolute;
+    top: 5000px;
+}
+
+.imgd {
+    position: absolute;
+    top: 5000px;
+}
+
+.imgb,
+.imgc {
+    position: absolute;
+    top: 5002px;
+}
+
+.p111 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 200px;
+}
+
+.ha {
+    position: absolute;
+    top: 100px;
+}
+
+.b1 {
+    position: absolute;
+    top: 300px;
+}
+
+.h22 {
+    position: absolute;
+    top: 1080px;
+    left: 500px;
+
+
+}
+
+.pa {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;
+    top: 1200px;
+    width: 500px;
+}
+
+i {
+    color: orange;
+}
+
+.p222 {
+    position: absolute;
+    top: 1300px;
+    font-size: 20px;
+    font-weight: 300;
+    width: 500px;
+}
+
+.pb {
+    position: absolute;
+    top: 1350px;
+    font-size: 20px;
+    font-weight: 300;
+    width: 500px;
+}
+
+.mainp {
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+    font-weight: bold;
+
+}
+
+.B2 {
+    color: white;
+    background: orange;
+    border-radius: 50px;
+    position: absolute;
+    top: 1350px;
+    left: 900px;
+}
+
+.h33 {
+    position: absolute;
+    top: 1500px;
+    left: 500px;
+}
+
+.imd {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 1650px;
+}
+
+.int {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2000px;
+}
+
+.q {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2400px;
+}
+
+
+.w {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 1650px;
+    left: 900px;
+}
+
+
+.r {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2000px;
+    left: 900px;
+}
+
+.e {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2400px;
+    left: 900px;
+}
+
+.t {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 1650px;
+    left: 450px;
+
+}
+
+.y {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2000px;
+    left: 450px;
+
+}
+
+.u {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 2400px;
+    left: 450px;
+
+}
+
+.b {
+    position: absolute;
+    top: 2800px;
+    left: 550px;
+
+}
+
+.m {
+    position: absolute;
+    top: 2900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+
+}
+
+.p7 {
+    position: absolute;
+    top: 3000px;
+
+}
+
+
+.i111 {
+    position: absolute;
+    top: 3000px;
+    left: 450px;
+}
+
+.p55 {
+    position: absolute;
+    top: 3000px;
+    left: 900px;
+
+}
+
+.haa {
+    position: absolute;
+    top: 3300px;
+    left: 480px;
+}
+
+.paa {
+    position: absolute;
+    top: 3400px;
+
+}
+
+.imgaa {
+    position: absolute;
+    top: 3450px;
+    height: 500px;
+    width: 500px;
+}
+
+.inputt {
+    position: absolute;
+    left: 900px;
+    top: 3500px;
+}
+
+.test {
+    position: absolute;
+    left: 900px;
+    top: 3550px;
+    width: 200px;
+}
+
+.emin {
+    position: absolute;
+    left: 900px;
+    top: 3450px;
+}
+
+.div2 {
+    border: 10px solid, black;
+}
+
+.o {
+    position: absolute;
+    top: 3600px;
+    left: 900px;
+}
+
+footer {
+    background-color: #37517e;
+    position: absolute;
+    width: 1250px;
+    height: 100px;
+    top: 4000px;
+    color: white;
+}
+
+.ma {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: goldenrod;
+    position: absolute;
+    bottom: 5px;
+    left: 800px;
+    font-size: 50px;
+
+}
+
+.i22 {
+    width: 50px;
+    height: 40px;
+    background-color: rgb(225, 150, 150);
+    position: absolute;
+    right: 600px;
+}
+.nav{
+    position: fixed;
+     box-shadow: 2px 1px 10px rgb(161, 63, 63);
+    z-index: 999;
+}
